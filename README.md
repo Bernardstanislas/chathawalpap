@@ -13,7 +13,7 @@
 
 ## Notes
 
-A good idea would be to run the script every X hours in order to have your wallpaper chaning all day long !
+A good idea would be to run the script every X hours in order to have your wallpaper changing all day long !
 
 Here is my `crontab` entry:
 
