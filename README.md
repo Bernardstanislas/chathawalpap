@@ -21,3 +21,7 @@ Here is my `crontab` entry:
 0 */1 * * * node ~/Documents/chathawalpap
 ```
 
+## Thank you
+
+Thank you [Samox](https://github.com/Samox) for the great image resource !
+
