@@ -1,0 +1,24 @@
+{
+  "name": "chathawalpap",
+  "version": "0.0.1",
+  "description": "Change that wallpaper !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wallpaper",
+    "change",
+    "cron",
+    "chromecast"
+  ],
+  "author": "bernardstanislas@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "4.0.5",
+    "got": "6.6.3",
+    "isomorphic-fetch": "2.2.1",
+    "tempfile": "1.1.1",
+    "wallpaper": "2.3.0"
+  }
+}
